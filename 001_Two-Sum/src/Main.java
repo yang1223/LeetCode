@@ -7,7 +7,6 @@ public class Main {
         int target = 10;
 
         int[] result = new Solution().twoSum2(nums , target);
-
         System.out.println("[" + result[0] + "," + result[1] + "]");
     }
 }
